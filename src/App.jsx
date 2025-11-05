@@ -10,8 +10,8 @@ function App() {
   }
   const users = [
     {
-      name: "Arseniy",
-      age: 14,
+      name: "Test user",
+      age: 21,
       address: {},
     },
   ];
